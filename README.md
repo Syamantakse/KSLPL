@@ -1,0 +1,1 @@
+This files contains the required codes for basic layout and designing of our website KALA SANGAM's login page for the customers and product list that we are going to sell on this e-commerce website. Further innoovate codes will be added afterwards.
